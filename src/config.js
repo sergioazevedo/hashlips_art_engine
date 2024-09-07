@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Cyber Norse Warriors";
 const description = "Experimental NFT Generative Collection";
-const baseUri = "https://gateway.pinata.cloud/ipfs/QmXSg9rLFrQhfHiYiUkFzZXeWKpEyqmcBzPTKhAnWEQUH2";
+const baseUri = "ipfs://bafybeidruvtfdzkrfrjo72scz74txmxjgdne5zwzblzztpu5vfuqp5yer4";
 
 const solanaMetadata = {
   symbol: "YC",
